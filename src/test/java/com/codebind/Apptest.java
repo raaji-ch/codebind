@@ -1,10 +1,7 @@
 package com.codebind;
 
-import org.junit.Test;
+import org.junit.*;
 
-import junit.framework.Assert;
-
-@SuppressWarnings("deprecation")
 public class Apptest {
 
 	@Test
