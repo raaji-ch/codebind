@@ -10,7 +10,7 @@ public class Apptest {
         Greeting h = new Greeting();
         
         String result=h.getGreeting("Tester");
-        Assert.assertEquals("Not matched...", "Hello Tester", result);
+        Assert.assertEquals("Not matched...", "HelloTester", result);
 		
 	}
 
